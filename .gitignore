@@ -1,0 +1,9 @@
+Python ≥ 3.8
+
+akshare ≥ 1.9.90
+
+pandas
+
+sqlalchemy
+
+sqlite3 或其他数据库
