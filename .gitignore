@@ -1,0 +1,9 @@
+Python ≥ 3.8
+
+FastAPI
+
+SQLAlchemy
+
+Uvicorn
+
+Pytest
